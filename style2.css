@@ -1,0 +1,25 @@
+@media only screen and (max-width: 1024px) {
+    #title {
+      text-align: center;
+    }
+  
+    .phoneimage {
+      position: static;
+      transform: rotate(0);
+      width: 50%;
+      margin: 0;
+    }
+
+    .container-fluid{
+      padding: 1% 5%;
+    }
+  
+    h2 {
+      font-size: 2rem;
+    }
+   .navbar{
+    margin:0;
+   }
+
+  }
+  

@@ -1,0 +1,103 @@
+.coloured-section{
+  background-color:#6739b6;
+  color: #fff;
+ 
+}
+body{
+  font-family: "Montserrat";
+  text-align: left;
+}
+.navbar-brand img{
+  width: 250px;
+  height: auto;
+  margin: 0 0 0 50%;
+  
+ 
+}
+.navbar-nav{
+ margin-left:40%;
+}
+.navbar{
+ padding:0 0 4.5rem;
+ margin-bottom: 2.5rem;
+  
+}
+.nav-item a{
+  width: 20%;
+  margin-right: 50px;
+  color: rgba(255,255,255,.5);
+  font-size: 120%;
+  justify-content: center;
+}
+.phoneimage{
+  width: 20%;
+
+  transform: rotate(20deg);
+  position: absolute;
+  right: 20%;
+}
+.container-fluid{
+  padding:1% 10% 9%;
+}
+
+.row h1{
+  text-align: left;
+  font-weight: 700;
+  font-size: 3rem;
+  margin-left: 20%;
+  line-height: 1.5;
+
+
+}
+.push-right{
+  justify-content: flex-end;
+}
+.download-button{
+ margin: 5% 3% 5% 0;
+}
+#title{
+  text-align: center;
+}
+.feature-box{
+  padding: 0;
+}
+#features{
+  padding: 5% 15%;
+  text-align: center;
+  font-family: "Montserrat";
+  
+}
+.feature-box img{
+  width: 70px;
+  height: auto;
+  margin: 10px;
+}
+.feature-box h3{
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 35px;
+  justify-content: center;
+}
+.spacer{
+  margin:0 10px;
+  box-shadow: 0 50px 40px rgb(209, 207, 207);
+  padding: 5%;
+}
+#press{
+  background-color: rgb(230, 225, 225);
+  text-align: center;
+  font-family: "Montserrat";
+  padding: 5%;
+}
+.image{
+  width:10%;
+  border-radius: 50%;
+  object-fit: fill;
+  padding: 5px;
+  margin: 15px;
+}
+.press-img{
+  width:9%;
+  height: auto;
+  margin: 5% 0 3% 7%;
+}
